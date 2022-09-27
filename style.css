@@ -30,3 +30,10 @@ p{
   font-size: 14px;
   line-height: 28px;
 }
+
+#balls{
+  position: absolute;
+  left: 94%;
+  right: -1%;
+  top: 89%;
+}
